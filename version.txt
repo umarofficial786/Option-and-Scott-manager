@@ -1,2 +1,2 @@
-0.2
-First protected (encrypted) release.
+0.5
+All adult and bug fix.
